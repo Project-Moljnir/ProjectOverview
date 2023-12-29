@@ -6,4 +6,4 @@
 
 ## Reading section:
 * [Vesc tool](https://vesc-project.com/vesc_tool)
-* [Vesc code] (https://github.com/vedderb/bldc)
+* [Vesc code](https://github.com/vedderb/bldc)
