@@ -195,8 +195,9 @@ Include any additional information or resources that helped in your decision-mak
 - https://www.hubs.com/talk/t/enclosed-vs-open-printers/3892
 
 **Change of P1S interface:**
-- https://www.sunlu.com/blogs/3d-printing-guide/resin-vs-filament-3d-printing
-- https://www.youtube.com/watch?v=7Av64TRznlI
+- https://www.sunlu.com/blogs/3d-printing-guide/resin-vs-filament-3d-printing (xtouch)
+- https://www.youtube.com/watch?v=7Av64TRznlI (xtouch)
+- https://biqu.equipment/pages/panda-series (new interface)
 
 **Tools for P1S:**
 - https://www.reddit.com/r/BambuLab/comments/17wq4s6/purchasing_a_p1s_what_accessories_do_you_recommend/
