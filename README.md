@@ -1,7 +1,7 @@
 # Project Overview
 
-## Guide to choosing our 3D Printer
-- [Link to information](3D-Printer/READAME.md)
+## Guide for choosing our 3D Printer
+- [Link to information](3D-Printer/README.md)
 
 --- 
 ## Milestone 1
