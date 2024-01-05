@@ -1,5 +1,9 @@
 # ProjectOverview
 
+## Guide to choosing our 3D Printer
+- [Link to information](3D-Printer/READAME.md)
+
+--- 
 ## Milestone 1
 - Create 3D model (in CAD?). convert to URDF.
 - Research 3D Printer.
