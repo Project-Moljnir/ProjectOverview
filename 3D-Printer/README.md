@@ -196,6 +196,7 @@ Here is included all the additional information and resources that helped in the
 
 **Change of P1S interface:**
 - https://www.sunlu.com/blogs/3d-printing-guide/resin-vs-filament-3d-printing (xtouch)
+- https://github.com/xperiments-in/xtouch (xtouch)
 - https://www.youtube.com/watch?v=7Av64TRznlI (xtouch)
 - https://biqu.equipment/pages/panda-series (new interface)
 
