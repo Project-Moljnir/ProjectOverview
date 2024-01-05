@@ -14,7 +14,7 @@
 - [ ] Battery
 - [ ] Transformer from battery to PC
 - [ ] Arm debug tool
-- ...
+- [ ] ...
 
 ## Reading section:
 * [Vesc tool](https://vesc-project.com/vesc_tool)
