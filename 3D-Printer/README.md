@@ -168,7 +168,7 @@ In conclusion, our selection of the Bambu Lab P1S is rooted in its ability to pr
 
 ---
 ## Appendix
-Here is included all additional information and resources that helped in the decision-making process.
+Here is included all the additional information and resources that helped in the decision-making process.
 
 **BambuLab A1:**
 - [technical specifications](https://cdn.shopify.com/s/files/1/0611/4036/9460/files/A1_Spec_EN_1214.pdf?v=1702538855)
