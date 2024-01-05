@@ -58,41 +58,41 @@ For those prioritizing material flexibility, and an enclosed environment for com
 
 ---
 ## Good to know when choosing a 3D Printer
-#### 1. Open vs. Enclosed 3D Printers
-##### Introduction
+### 1. Open vs. Enclosed 3D Printers
+###### Introduction
 When selecting a 3D printer, one critical decision is whether to opt for an open or enclosed model. This choice significantly impacts print quality, material compatibility, and overall user experience. Below, we summarize key insights from experienced users and experts to help inform this decision.
 
-##### Benefits of Enclosed 3D Printers
+###### Benefits of Enclosed 3D Printers
 - **Temperature Stability:** Enclosures help maintain a consistent temperature, crucial for printing with materials prone to warping like ABS and Polycarbonate.
 - **Reduced Warping:** By minimizing temperature fluctuations and drafts, enclosed printers can significantly reduce warping issues, leading to better print quality.
 - **Noise Reduction:** The enclosure acts as a sound barrier, dampening the noise from the printer's operation, which is beneficial in shared spaces.
 - **Fume Containment:** Enclosed printers often have better ventilation systems, which is essential for managing fumes and particulates, particularly in poorly ventilated areas.
 - **Safety:** By shielding hot components and moving parts, enclosed printers are generally safer, reducing the risk of accidental burns or injuries, especially in environments with children or pets.
 
-##### Drawbacks of Enclosed 3D Printers
+###### Drawbacks of Enclosed 3D Printers
 - **Higher Cost:** Enclosures add to the overall cost of the printer, due to the additional materials and design considerations.
 - **Maintenance Challenges:** Enclosed printers can be harder to clean and maintain due to limited accessibility to internal components.
 - **Visibility and Size Limitations:** Monitoring print progress can be more challenging, and the physical size of the enclosure can constrain the maximum print size.
 
-##### Benefits of Open 3D Printers
+###### Benefits of Open 3D Printers
 - **Ease of Monitoring and Maintenance:** Open printers offer unhindered visibility and access, making it easier to monitor print progress and perform maintenance tasks.
 - **Cost-Effectiveness:** Generally, open printers are more affordable, making them an excellent choice for budget-conscious users or beginners.
 - **Flexibility in Print Size:** Without the constraints of an enclosure, open printers can handle larger print jobs.
 - **Natural Ventilation:** For materials that emit minimal fumes, the natural airflow in open printers can be sufficient.
 
-##### Drawbacks of Open 3D Printers
+###### Drawbacks of Open 3D Printers
 - **Environmental Sensitivity:** Open printers are more susceptible to environmental factors like drafts and temperature changes, which can affect print quality.
 - **Safety Concerns:** The exposed hot parts and moving mechanisms pose a higher risk, particularly in settings with children or inattentive users.
 - **Noise and Odor:** Open printers tend to be noisier and may emit stronger odors during operation, which can be a concern in shared or enclosed spaces.
 
-##### Additional Insights and Considerations
+###### Additional Insights and Considerations
 - **Delamination and Shrinkage:** Enclosed printers are particularly beneficial for materials with significant shrinkage, such as ABS, HIPS, Nylon, and PC, as they help prevent delamination.
 - **Air Circulation:** Some enclosed printers feature specialized air circulation fans to ensure uniform temperature, crucial for high-shrinkage materials.
 - **Odor Management:** Enclosed printers, especially those with filters like HEPA, are effective in controlling the odors associated with printing certain engineering plastics.
-- **Dust Protection:** In industrial or workshop environments, enclosed printers protect against dust and debris, safeguarding the printing process and equipment longevity.
-- **Child and Pet Safety:** Enclosed printers offer enhanced safety by protecting against high voltage components, moving parts, and heating elements, making them a safer choice around children and pets.
+- **Dust Protection:** In industrial or workshop environments, enclosed printers protect against dust and debris, safeguarding the printing process and equipment's longevity.
+- **Child and Pet Safety:** Enclosed printers offer enhanced safety by protecting against high-voltage components, moving parts, and heating elements, making them a safer choice around children and pets.
 
-##### User Experiences and Recommendations
+###### User Experiences and Recommendations (Taken from links)
 - Users like James_McKinney and skyjames highlight the importance of enclosures in maintaining temperature stability, especially for ABS printing, but also note the cost and complexity this adds.
 - stopaginn and sjohnson_NCSU emphasize the benefits of enclosed printers for large parts and high-temperature materials.
 - Users on Reddit forums discuss the practicality of open printers for beginners and the feasibility of adding DIY enclosures as needed.
@@ -103,10 +103,10 @@ The decision between an open and enclosed 3D printer depends on several factors,
 #### 2. Material/Filament Requirements and Properties
 ![[link](https://bambulab.com/en/filament-guide)](Filament_guide.png)
 
-##### Introduction
+###### Introduction
 Choosing the right filament is crucial for 3D printing components in robotics. Each material offers unique properties that can impact the strength, flexibility, and durability of printed parts. Below is a guide to selecting filaments based on their properties and the requirements of robotic applications.
 
-##### Filament Properties Overview
+###### Filament Properties Overview
 
 - **PLA (Polylactic Acid):** Known for its ease of use, PLA is great for low-load, non-functional prototypes due to its lower strength and stiffness compared to engineering filaments.
 - **PETG (Polyethylene Terephthalate Glycol):** Offers a good balance between ease of printing and mechanical properties, suitable for functional parts that require more strength and flexibility.
@@ -120,7 +120,7 @@ Choosing the right filament is crucial for 3D printing components in robotics. E
 - **PAHT-CF (Polyamide High-Temperature Carbon Fiber):** Offers high thermal and chemical resistance, perfect for advanced robotic applications in harsh environments.
 - **PA6-CF (Polyamide 6 Carbon Fiber):** Provides the highest strength and stiffness, ideal for industrial-grade robotic components.
 
-##### Choosing the Right Filament for Robotics
+###### Choosing the Right Filament for Robotics
 
 - **Rapid Prototyping:** PLA is often sufficient for prototyping non-functional models or parts that won't bear loads.
 - **Functional Parts:** PETG is typically used for parts that need to withstand some impact and stress, such as gears or casings.

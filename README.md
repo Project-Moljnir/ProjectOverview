@@ -1,4 +1,4 @@
-# ProjectOverview
+# Project Overview
 
 ## Guide to choosing our 3D Printer
 - [Link to information](3D-Printer/READAME.md)
@@ -10,7 +10,7 @@
 - Set up a simulation of the robot
 - Research battery.
 
-## Shoping list
+## Shopping list
 - Battery
 - Transformer from battery to PC
 - Arm debug tool
