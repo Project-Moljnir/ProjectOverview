@@ -1,13 +1,13 @@
 # Fusion settings
 When first coming in the settings might be a little weird, so I have made a little checklist that can help you understand and set the settings correctly.
-## camera settings:
+## Camera settings:
 When I first entered Fusion 360 and made a plane, it looked weird from multiple angles and that is because it comes as an orthographic view, but if you want it to be more human-like (that is not always the case) then change this to perspective. 
 <p align="center">
   <img src="images/change_view.png" alt="image of where to change viewport"/>
 </p>
 
 ---
-## setup preferences (robotics related)
+## Setup preferences (robotics related)
 There are a few settings to align between the programs that are used (gazebo and other simulators that we are going to use).
 All these are changed in the preference tab:
 <p align="center">
