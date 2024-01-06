@@ -18,6 +18,7 @@ This document serves as a log for our 3D printer selection process. It outlines 
     - No Multicolor 
 
 ### 1. BambuLab A1 vs P1S 3D Printer Comparison
+
 ![[link](https://www.antonmansson.com/3d-printing-blog/bambu-lab-a1-vs-p1s-3d-printer)](P1S+Vs+A1+Bambu+Lab+thumbnail.jpg)
 #### BambuLab A1 Overview
 
