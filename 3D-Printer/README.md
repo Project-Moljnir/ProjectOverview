@@ -19,7 +19,7 @@ This document serves as a log for our 3D printer selection process. It outlines 
 
 ### 1. BambuLab A1 vs P1S 3D Printer Comparison
 
-![[link](https://www.antonmansson.com/3d-printing-blog/bambu-lab-a1-vs-p1s-3d-printer)](P1S+Vs+A1+Bambu+Lab+thumbnail.jpg)
+![[link](https://www.antonmansson.com/3d-printing-blog/bambu-lab-a1-vs-p1s-3d-printer)](images/P1S+Vs+A1+Bambu+Lab+thumbnail.jpg)
 #### BambuLab A1 Overview
 
 The BambuLab A1 is a Cartesian 3D printer boasting high-speed printing with a build volume of 256 x 256 x 256 mm. It's a well-rounded machine suitable for beginners and professionals alike, with a direct drive, all-metal hot-end, and a heated bed now capable of reaching up to 100°C. Its standout features include ultra-fast printing, multi-filament versatility, and exceptional build quality, making it a strong contender for detailed models and rapid prototyping.
@@ -102,7 +102,7 @@ When selecting a 3D printer, one critical decision is whether to opt for an open
 The decision between an open and enclosed 3D printer depends on several factors, including the intended use, preferred materials, budget, and the working environment. While enclosed printers offer better temperature control and safety features, open printers provide ease of use, maintenance, and cost-effectiveness. Understanding these differences and considering user experiences can guide a more informed selection aligned with specific project requirements.
 
 #### 2. Material/Filament Requirements and Properties
-![[link](https://bambulab.com/en/filament-guide)](Filament_guide.png)
+![[link](https://bambulab.com/en/filament-guide)](images/Filament_guide.png)
 
 ###### Introduction
 Choosing the right filament is crucial for 3D printing components in robotics. Each material offers unique properties that can impact the strength, flexibility, and durability of printed parts. Below is a guide to selecting filaments based on their properties and the requirements of robotic applications.
