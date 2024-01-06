@@ -141,7 +141,7 @@ In evaluating the best 3D printer for a home hobby environment with varied clima
 ### Comparative Table
 
 | Feature | Bambu Lab A1 | Bambu Lab P1S |
-|---------|--------------|---------------|
+|---------|:--------------:|:---------------:|
 | Enclosure | No | Yes |
 | Ease of Use | User-friendly touchscreen | Basic monochrome display |
 | Material Versatility | Limited to less sensitive materials | Wide range, including PA, ABS, and ASA |
