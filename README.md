@@ -3,6 +3,9 @@
 ## Guide for choosing our 3D Printer
 - [Link to information](3D-Printer/README.md)
 
+## Learning Fusion 360
+- [Link to learning material](Learn-Fusion/README.md)
+  
 --- 
 ## Milestone 1
 - [X] 3D printer research 
